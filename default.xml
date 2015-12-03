@@ -59,6 +59,7 @@
   <project path="packages/apps/Exchange2" name="android_packages_apps_Exchange2" remote="vrtoxin" revision="mm-6.0" />
   <project path="packages/apps/InCallUI" name="android_packages_apps_InCallUI" remote="vrtoxin" revision="mm-6.0" />
   <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="vrtoxin" revision="mm-6.0" />
+  <project path="packages/apps/LockClock" name="android_packages_apps_LockClock" remote="vrtoxin" revision="mm-6.0" />
   <project path="packages/apps/Messaging" name="android_packages_apps_Messaging" remote="vrtoxin" revision="mm-6.0" />
   <project path="packages/apps/MusicFX" name="android_packages_apps_MusicFX" remote="vrtoxin" revision="mm-6.0" />
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_packageinstaller" remote="vrtoxin" revision="mm-6.0" />
