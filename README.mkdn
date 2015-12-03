@@ -1,0 +1,37 @@
+VRToxin-AOSP ROM !!
+===================
+
+Support VRToxin
+---------------
+Follow the VRToxin rom builds. Please visit and support our efforts
+
+[VRToxin Website] (http://vrtoxin.net)
+
+Getting Started
+---------------
+
+To get started with building VRToxin rom, you'll need to get
+familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
+Contact us for permission to access the private repositories.
+
+Then to initialize your local repository using the VRToxin rom trees, use this command:
+
+    repo init -u git://github.com/VRToxin-AOSP/manifest.git -b mm-6.0
+
+Then to sync up:
+
+    repo sync
+
+#Building the System:
+
+Build VRToxin with the following commands
+
+    . build/envsetup.sh
+
+    lunch
+
+    make -j{16} vrtoxin
+
+You can speed up subsequent builds by adding this command in terminal:
+
+export USE_CCACHE=1
