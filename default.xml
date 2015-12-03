@@ -36,6 +36,7 @@
   <project path="external/busybox" name="android_external_busybox" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/chromium-webview" name="android_external_chromium-webview" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/flac" name="android_external_flac" remote="vrtoxin" revision="mm-6.0" />
+  <project path="external/google" name="android_external_google" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/guava" name="android_external_guava" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/iproute2" name="android_external_iproute2" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/jpeg" name="android_external_jpeg" remote="vrtoxin" revision="mm-6.0" />
