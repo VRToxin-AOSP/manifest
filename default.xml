@@ -17,6 +17,10 @@
   <remote  name="bb"
            fetch="https://bitbucket.org/NL-BlackDragon" />
 
+  <!-- f100cleveland - BitBucket -->
+  <remote  name="bitb"
+           fetch="https://bitbucket.org/f100cleveland" />
+
   <!-- Github -->
   <remote  name="git"
            fetch="https://github.com/" />
@@ -448,6 +452,7 @@
   <!-- UBER ToolChains -->
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9-kernel" name="aarch64-linux-android-4.9-kernel" remote="bb" revision="mm-6.0" />
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-5.2-kernel" name="aarch64-linux-android-5.2-kernel" remote="bb" revision="mm-6.0" />
+   <project path="prebuilts/gcc/linux-x86/aarch64" name="aarch64-5.3-kernel" remote="bitb" revision="master" />
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-6.0-kernel" name="aarch64-linux-android-6.0-kernel" remote="bb" revision="mm-6.0" />
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="aarch64-linux-android-4.9" remote="bb" revision="mm-6.0" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" name="arm-eabi-4.9" remote="bb" revision="mm-6.0" />
