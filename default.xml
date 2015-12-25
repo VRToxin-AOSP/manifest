@@ -50,6 +50,7 @@
   <project path="external/sepolicy" name="android_external_sepolicy" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/skia" name="android_external_skia" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/sqlite" name="android_external_sqlite" remote="vrtoxin" revision="mm-6.0" />
+  <project path="frameworks/av" name="android_frameworks_av" remote="private" revision="mm-6.0"  />
   <project path="frameworks/base" name="android_frameworks_base" remote="private" revision="mm-6.0"  />
   <project path="frameworks/native" name="android_frameworks_native" remote="vrtoxin" revision="mm-6.0" />
   <project path="frameworks/opt/cards" name="android_frameworks_opt_cards" remote="vrtoxin" revision="mm-6.0" />
@@ -295,7 +296,6 @@
   <project path="external/zlib" name="platform/external/zlib" groups="pdk" />
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" />
