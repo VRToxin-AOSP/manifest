@@ -89,6 +89,7 @@
   <project path="packages/providers/TelephonyProvider" name="android_packages_providers_TelephonyProvider" remote="vrtoxin" revision="mm-6.0" />
   <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="vrtoxin" revision="mm-6.0" />
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="vrtoxin" revision="mm-6.0" />
+  <project path="packages/apps/VRToxinMods" name="android_packages_apps_VRToxinMods" remote="private" revision="mm-6.0" />
   <project path="system/core" name="android_system_core" remote="vrtoxin" revision="mm-6.0" />
   <project path="system/extras" name="android_system_extras" remote="vrtoxin" revision="mm-6.0" />
   <project path="vendor/vrtoxin" name="android_vendor_vrtoxin" remote="private" revision="mm-6.0"  />
