@@ -47,6 +47,7 @@
   <project path="external/iproute2" name="android_external_iproute2" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/jpeg" name="android_external_jpeg" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/libpng" name="android_external_libpng" remote="vrtoxin" revision="mm-6.0" />
+  <project path="external/llvm" name="android_external_llvm" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/proguard" name="android_external_proguard" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/sepolicy" name="android_external_sepolicy" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/skia" name="android_external_skia" remote="vrtoxin" revision="mm-6.0" />
@@ -224,7 +225,6 @@
   <project path="external/littlemock" name="platform/external/littlemock" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/lld" name="platform/external/lld" groups="pdk-fs" />
   <project path="external/lldb" name="platform/external/lldb" groups="pdk-cw-fs,pdk-fs" />
-  <project path="external/llvm" name="platform/external/llvm" groups="pdk" />
   <project path="external/ltrace" name="platform/external/ltrace" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/lz4" name="platform/external/lz4" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/lzma" name="platform/external/lzma" groups="pdk" />
