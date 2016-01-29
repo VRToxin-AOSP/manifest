@@ -17,9 +17,9 @@
   <remote  name="bb"
            fetch="https://bitbucket.org/NL-BlackDragon" />
 
-  <!-- f100cleveland - BitBucket -->
+  <!-- Dragon-tc - BitBucket -->
   <remote  name="bitb"
-           fetch="https://bitbucket.org/f100cleveland" />
+           fetch="https://bitbucket.org/dragon-tc" />
 
   <!-- Github -->
   <remote  name="git"
@@ -458,5 +458,8 @@
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="aarch64-linux-android-4.9" remote="bb" revision="mm-6.0" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" name="arm-eabi-4.9" remote="bb" revision="mm-6.0" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="arm-linux-androideabi-4.9" remote="bb" revision="mm-6.0" />
+
+  <!-- Dragon-TC -->
+  <project path="prebuilts/clang/linux-x86/host/3.8" name="dragontc-3.8" remote="bitb" revision="master" />
 
 </manifest>
