@@ -48,6 +48,7 @@
   <project path="external/jpeg" name="android_external_jpeg" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/libpng" name="android_external_libpng" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/llvm" name="android_external_llvm" remote="vrtoxin" revision="mm-6.0" />
+  <project path="external/pdfium" name="android_external_pdfium" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/proguard" name="android_external_proguard" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/sepolicy" name="android_external_sepolicy" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/skia" name="android_external_skia" remote="vrtoxin" revision="mm-6.0" />
@@ -261,7 +262,6 @@
   <project path="external/owasp/sanitizer" name="platform/external/owasp/sanitizer" groups="pdk-fs" />
   <project path="external/parameter-framework" name="platform/external/parameter-framework" groups="pdk-fs" />
   <project path="external/pcre" name="platform/external/pcre" groups="pdk" />
-  <project path="external/pdfium" name="platform/external/pdfium" groups="pdk" />
   <project path="external/ppp" name="platform/external/ppp" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/protobuf" name="platform/external/protobuf" groups="pdk" />
   <project path="external/regex-re2" name="platform/external/regex-re2" groups="pdk-cw-fs,pdk-fs" />
