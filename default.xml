@@ -42,6 +42,7 @@
   <project path="external/busybox" name="android_external_busybox" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/chromium-webview" name="android_external_chromium-webview" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/flac" name="android_external_flac" remote="vrtoxin" revision="mm-6.0" />
+  <project path="external/freetype" name="android_external_freetype" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/google" name="android_external_google" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/guava" name="android_external_guava" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/iproute2" name="android_external_iproute2" remote="vrtoxin" revision="mm-6.0" />
@@ -156,7 +157,6 @@
   <project path="external/fdlibm" name="platform/external/fdlibm" groups="pdk" />
   <project path="external/fio" name="platform/external/fio" groups="pdk-fs" />
   <project path="external/fonttools" name="platform/external/fonttools" groups="pdk-fs" />
-  <project path="external/freetype" name="platform/external/freetype" groups="pdk" />
   <project path="external/fsck_msdos" name="platform/external/fsck_msdos" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/giflib" name="platform/external/giflib" groups="pdk,qcom_msm8x26" />
   <project path="external/glide" name="platform/external/glide" groups="pdk-fs" />
