@@ -55,6 +55,7 @@
   <project path="external/sepolicy" name="android_external_sepolicy" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/skia" name="android_external_skia" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/sqlite" name="android_external_sqlite" remote="vrtoxin" revision="mm-6.0" />
+  <project path="external/v8" name="android_external_v8" remote="vrtoxin" revision="mm-6.0" />
   <project path="frameworks/av" name="android_frameworks_av" remote="private" revision="mm-6.0"  />
   <project path="frameworks/base" name="android_frameworks_base" remote="private" revision="mm-6.0"  />
   <project path="frameworks/native" name="android_frameworks_native" remote="vrtoxin" revision="mm-6.0" />
@@ -290,7 +291,6 @@
   <project path="external/tinyxml2" name="platform/external/tinyxml2" groups="pdk" />
   <project path="external/toybox" name="platform/external/toybox" groups="pdk" />
   <project path="external/tremolo" name="platform/external/tremolo" groups="pdk" />
-  <project path="external/v8" name="platform/external/v8" groups="pdk" />
   <project path="external/valgrind" name="platform/external/valgrind" groups="pdk" />
   <project path="external/vboot_reference" name="platform/external/vboot_reference" groups="vboot" />
   <project path="external/vixl" name="platform/external/vixl" groups="pdk" />
