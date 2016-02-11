@@ -66,6 +66,7 @@
   <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="vrtoxin" revision="mm-6.0" />
   <project path="frameworks/rs" name="android_frameworks_rs" remote="vrtoxin" revision="mm-6.0" />
   <project path="frameworks/support" name="android_frameworks_support" remote="vrtoxin" revision="mm-6.0" />
+  <project path="frameworks/wilhelm" name="android_frameworks_wilhelm" remote="vrtoxin" revision="mm-6.0" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="vrtoxin" revision="mm-6.0" />
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="vrtoxin" revision="mm-6.0" />
   <project path="hardware/ril" name="android_hardware_ril" remote="vrtoxin" revision="mm-6.0" />
@@ -336,7 +337,6 @@
   <project path="frameworks/data-binding" name="platform/frameworks/data-binding" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/volley" name="platform/frameworks/volley" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/webview" name="platform/frameworks/webview" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" groups="pdk-cw-fs,pdk-fs" />
   <project path="hardware/akm" name="platform/hardware/akm" />
   <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" groups="pdk" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" groups="pdk,broadcom_wlan" />
