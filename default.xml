@@ -54,6 +54,7 @@
   <project path="external/proguard" name="android_external_proguard" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/sepolicy" name="android_external_sepolicy" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/skia" name="android_external_skia" remote="vrtoxin" revision="mm-6.0" />
+  <project path="external/speex" name="android_external_speex" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/sqlite" name="android_external_sqlite" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/v8" name="android_external_v8" remote="vrtoxin" revision="mm-6.0" />
   <project path="frameworks/av" name="android_frameworks_av" remote="private" revision="mm-6.0"  />
