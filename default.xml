@@ -32,6 +32,7 @@
 
   <!-- VRToxin - AOSP -->
   <project path="android" name="manifest" groups="pdk" remote="vrtoxin" revision="mm-6.0" />
+  <project path="bootable/recovery" name="android_bootable_recovery" remote="vrtoxin" revision="mm-6.0" />
   <project path="build" name="android_build" remote="private" revision="mm-6.0" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
@@ -110,7 +111,6 @@
 
   <!-- AOSP -->
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
-  <project path="bootable/recovery" name="platform/bootable/recovery" groups="pdk" />
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs,pdk-fs" />
   <project path="developers/build" name="platform/developers/build" />
   <project path="developers/demos" name="platform/developers/demos" />
