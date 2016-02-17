@@ -19,7 +19,7 @@
 
   <!-- Dragon-tc - BitBucket -->
   <remote  name="bitb"
-           fetch="https://bitbucket.org/dragon-tc" />
+           fetch="https://bitbucket.org/xanaxdroid" />
 
   <!-- Github -->
   <remote  name="git"
@@ -460,6 +460,6 @@
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="arm-linux-androideabi-4.9" remote="bb" revision="mm-6.0" />
 
   <!-- Dragon-TC -->
-  <project path="prebuilts/clang/linux-x86/host/3.8" name="dragontc-3.8" remote="bitb" revision="master" />
-
-</manifest>
+  <project path="prebuilts/clang/linux-x86/host/3.9" name="dragontc-3.9" groups="pdk,linux" remote="bitb" revision="dragontc" />
+  
+  </manifest>
