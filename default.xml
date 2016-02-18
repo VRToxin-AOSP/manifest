@@ -49,6 +49,7 @@
   <project path="external/guava" name="android_external_guava" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/iproute2" name="android_external_iproute2" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/jpeg" name="android_external_jpeg" remote="vrtoxin" revision="mm-6.0" />
+  <project path="external/libcxxabi" name="android_external_libcxxabi" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/libpng" name="android_external_libpng" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/llvm" name="android_external_llvm" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/pdfium" name="android_external_pdfium" remote="vrtoxin" revision="mm-6.0" />
@@ -204,7 +205,6 @@
   <project path="external/libavc" name="platform/external/libavc" groups="pdk" />
   <project path="external/libcap-ng" name="platform/external/libcap-ng" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/libcxx" name="platform/external/libcxx" groups="pdk" />
-  <project path="external/libcxxabi" name="platform/external/libcxxabi" groups="pdk" />
   <project path="external/libdrm" name="platform/external/libdrm" groups="pdk" />
   <project path="external/libedit" name="platform/external/libedit" groups="pdk-fs" />
   <project path="external/libexif" name="platform/external/libexif" groups="pdk-cw-fs,pdk-fs" />
@@ -462,4 +462,4 @@
   <!-- Dragon-TC -->
   <project path="prebuilts/clang/linux-x86/host/3.9" name="dragontc-3.9" groups="pdk,linux" remote="bitb" revision="dragontc" />
   
-  </manifest>
+</manifest>
