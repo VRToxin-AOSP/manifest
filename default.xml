@@ -20,6 +20,10 @@
   <!-- Dragon-tc - BitBucket -->
   <remote  name="bitb"
            fetch="https://bitbucket.org/dragon-tc" />
+           
+  <!-- Ubertc - BitBucket -->
+  <remote  name="btb"
+           fetch="https://bitbucket.org/UBERTC" />          
 
   <!-- Github -->
   <remote  name="git"
@@ -451,10 +455,8 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
 
   <!-- UBER ToolChains -->
-  <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-6.0-kernel" name="aarch64-linux-android-6.0-kernel" remote="bb" revision="mm-6.0" />
-  <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="aarch64-linux-android-4.9" remote="bb" revision="mm-6.0" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" name="arm-eabi-4.9" remote="bb" revision="mm-6.0" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="arm-linux-androideabi-4.9" remote="bb" revision="mm-6.0" />
+  <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="aarch64-linux-android-4.9" remote="btb" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-6.0" name="aarch64-linux-android-6.0-kernel" remote="btb" revision="master" />
 
   <!-- Dragon-TC -->
   <project path="prebuilts/clang/linux-x86/host/3.9" name="dragontc-3.9" groups="pdk,linux" remote="bitb" revision="master" />
