@@ -43,6 +43,7 @@
   <project path="development" name="android_development" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/busybox" name="android_external_busybox" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/chromium-webview" name="android_external_chromium-webview" remote="vrtoxin" revision="mm-6.0" />
+  <project path="external/f2fs-tools" name="android_external_f2fs-tools" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/fdlibm" name="android_external_fdlibm" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/flac" name="android_external_flac" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/freetype" name="android_external_freetype" remote="vrtoxin" revision="mm-6.0" />
@@ -175,7 +176,6 @@
   <project path="external/esd" name="platform/external/esd" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/expat" name="platform/external/expat" groups="pdk" />
   <project path="external/eyes-free" name="platform/external/eyes-free" groups="pdk-cw-fs,pdk-fs" />
-  <project path="external/f2fs-tools" name="platform/external/f2fs-tools" groups="pdk" />
   <project path="external/fio" name="platform/external/fio" groups="pdk-fs" />
   <project path="external/fonttools" name="platform/external/fonttools" groups="pdk-fs" />
   <project path="external/fsck_msdos" name="platform/external/fsck_msdos" groups="pdk-cw-fs,pdk-fs" />
