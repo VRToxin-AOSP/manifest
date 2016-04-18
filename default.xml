@@ -53,6 +53,7 @@
   <project path="external/jpeg" name="android_external_jpeg" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/libavc" name="android_external_libavc" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/libcxxabi" name="android_external_libcxxabi" remote="vrtoxin" revision="mm-6.0" />
+  <project path="external/libhevc" name="android_external_libhevc" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/libpng" name="android_external_libpng" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/llvm" name="android_external_llvm" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/pdfium" name="android_external_pdfium" remote="vrtoxin" revision="mm-6.0" />
@@ -218,7 +219,6 @@
   <project path="external/libedit" name="platform/external/libedit" groups="pdk-fs" />
   <project path="external/libexif" name="platform/external/libexif" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/libgsm" name="platform/external/libgsm" groups="pdk" />
-  <project path="external/libhevc" name="platform/external/libhevc" groups="pdk-fs" />
   <project path="external/liblzf" name="platform/external/liblzf" groups="pdk" />
   <project path="external/libmpeg2" name="platform/external/libmpeg2" groups="pdk" />
   <project path="external/libmtp" name="platform/external/libmtp" groups="pdk-cw-fs,pdk-fs" />
