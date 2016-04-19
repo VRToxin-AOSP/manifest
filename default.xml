@@ -457,6 +457,6 @@
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="arm-linux-androideabi-4.9" remote="bb" revision="mm-6.0" clone-depth="1" />
 
   <!-- Dragon-TC -->
-  <project path="prebuilts/clang/linux-x86/host/3.9" name="dragontc-3.9" groups="pdk,linux" remote="bitb" revision="master" clone-depth="1" />
+  <project path="prebuilts/clang/linux-x86/host/3.9" name="dragontc-3.9" groups="pdk,linux" remote="bb" revision="master" clone-depth="1" />
   
 </manifest>
