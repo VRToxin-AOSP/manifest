@@ -75,6 +75,7 @@
   <project path="frameworks/base" name="android_frameworks_base" remote="private" revision="mm-6.0"  />
   <project path="frameworks/ex" name="android_frameworks_ex" remote="private" revision="mm-6.0"  />
   <project path="frameworks/native" name="android_frameworks_native" remote="vrtoxin" revision="mm-6.0" />
+  <project path="frameworks/ml" name="android_frameworks_ml" remote="vrtoxin" revision="mm-6.0" />
   <project path="frameworks/opt/cards" name="android_frameworks_opt_cards" remote="vrtoxin" revision="mm-6.0" />
   <project path="frameworks/opt/net/ims" name="android_frameworks_opt_net_ims" remote="vrtoxin" revision="mm-6.0" />
   <project path="frameworks/opt/photoviewer" name="android_frameworks_opt_photoviewer" remote="vrtoxin" revision="mm-6.0" />
@@ -321,7 +322,6 @@
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" />
   <project path="frameworks/mff" name="platform/frameworks/mff" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/minikin" name="platform/frameworks/minikin" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/multidex" name="platform/frameworks/multidex" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/opt/bitmap" name="platform/frameworks/opt/bitmap" groups="pdk-fs" />
   <project path="frameworks/opt/bluetooth" name="platform/frameworks/opt/bluetooth" groups="pdk-cw-fs,pdk-fs" />
