@@ -60,6 +60,7 @@
   <project path="external/libpng" name="android_external_libpng" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/llvm" name="android_external_llvm" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/lzma" name="android_external_lzma" remote="vrtoxin" revision="mm-6.0" />
+  <project path="external/mdnsresponder" name="android_external_mdnsresponder" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/pdfium" name="android_external_pdfium" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/proguard" name="android_external_proguard" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/sepolicy" name="android_external_sepolicy" remote="vrtoxin" revision="mm-6.0" />
@@ -251,7 +252,6 @@
   <project path="external/lz4" name="platform/external/lz4" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/marisa-trie" name="platform/external/marisa-trie" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/markdown" name="platform/external/markdown" groups="pdk-cw-fs,pdk-fs" />
-  <project path="external/mdnsresponder" name="platform/external/mdnsresponder" groups="pdk" />
   <project path="external/mesa3d" name="platform/external/mesa3d" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/messageformat" name="platform/external/messageformat" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/mksh" name="platform/external/mksh" groups="pdk" />
