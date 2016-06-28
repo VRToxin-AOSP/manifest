@@ -54,6 +54,7 @@
   <project path="external/icu" name="android_external_icu" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/iproute2" name="android_external_iproute2" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/ipsec-tools" name="android_external_ipsec-tools" remote="vrtoxin" revision="mm-6.0" />
+  <project path="external/jemalloc" name="android_external_jemalloc" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/jpeg" name="android_external_jpeg" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/libavc" name="android_external_libavc" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/libcxxabi" name="android_external_libcxxabi" remote="vrtoxin" revision="mm-6.0" />
@@ -210,7 +211,6 @@
   <project path="external/javasqlite" name="platform/external/javasqlite" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/javassist" name="platform/external/javassist" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/jdiff" name="platform/external/jdiff" groups="pdk-cw-fs,pdk-fs" />
-  <project path="external/jemalloc" name="platform/external/jemalloc" groups="pdk" />
   <project path="external/jetty" name="platform/external/jetty" groups="pdk-fs" />
   <project path="external/jhead" name="platform/external/jhead" groups="pdk" />
   <project path="external/jline" name="platform/external/jline" groups="notdefault,tradefed" />
