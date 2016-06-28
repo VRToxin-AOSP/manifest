@@ -60,6 +60,7 @@
   <project path="external/libcxxabi" name="android_external_libcxxabi" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/libhevc" name="android_external_libhevc" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/libmpeg2" name="android_external_libmpeg2" remote="vrtoxin" revision="mm-6.0" />
+  <project path="external/libphonenumber" name="android_external_libphonenumber" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/libpng" name="android_external_libpng" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/libvpx" name="android_external_libvpx" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/llvm" name="android_external_llvm" remote="vrtoxin" revision="mm-6.0" />
@@ -237,7 +238,6 @@
   <project path="external/libogg" name="platform/external/libogg" groups="pdk" />
   <project path="external/libopus" name="platform/external/libopus" groups="pdk" />
   <project path="external/libpcap" name="platform/external/libpcap" groups="pdk,pdk-cw-fs,pdk-fs" />
-  <project path="external/libphonenumber" name="platform/external/libphonenumber" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/libseccomp-helper" name="platform/external/libseccomp-helper" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/libselinux" name="platform/external/libselinux" groups="pdk" />
   <project path="external/libssh2" name="platform/external/libssh2" groups="pdk-cw-fs,pdk-fs" />
