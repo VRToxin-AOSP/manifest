@@ -64,7 +64,6 @@
   <project path="external/libmpeg2" name="android_external_libmpeg2" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/libphonenumber" name="android_external_libphonenumber" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/libpng" name="android_external_libpng" remote="vrtoxin" revision="mm-6.0" />
-  <project path="external/libvpx" name="android_external_libvpx" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/llvm" name="android_external_llvm" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/lzma" name="android_external_lzma" remote="vrtoxin" revision="mm-6.0" />
   <project path="external/mdnsresponder" name="android_external_mdnsresponder" remote="vrtoxin" revision="mm-6.0" />
@@ -248,6 +247,7 @@
   <project path="external/libutf" name="platform/external/libutf" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/libvncserver" name="platform/external/libvncserver" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/libvorbis" name="platform/external/libvorbis" groups="pdk-cw-fs,pdk-fs" />
+  <project path="external/libvpx" name="platform/external/libvpx" groups="pdk" />
   <project path="external/libvterm" name="platform/external/libvterm" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/libxml2" name="platform/external/libxml2" groups="pdk-cw-fs,pdk-fs,libxml2" />
   <project path="external/libyuv" name="platform/external/libyuv" groups="libyuv,pdk-cw-fs,pdk-fs" />
